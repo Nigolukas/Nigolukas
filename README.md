@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">MythHunter</h3>
 <div align="center">
-<a href="https://nigolukas.itch.io/myth-hunter" target="_blank"><img src="https://i.imgur.com/znaysLg.png" width="400" alt="MythHunter"></a>
+<a href="https://nigolukas.itch.io/myth-hunter" target="_blank"><img src="https://i.imgur.com/filS6iB.jpeg" width="400" alt="MythHunter"></a>
 <p>
 <a href="https://nigolukas.itch.io/myth-hunter" target="_blank">
 <img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black">
@@ -32,7 +32,7 @@
                <br>
 <h3 align="center">Ángel guardián: defensa nocturna</h3>
 <div align="center">                                       
-<a href="https://nigolukas.itch.io/angel-guardian-defensa-nocturna" target="_blank"><img src="https://imgur.com/a/lP90s1k" width="400" alt="Ángel guardián: defensa nocturna"></a>
+<a href="https://nigolukas.itch.io/angel-guardian-defensa-nocturna" target="_blank"><img src="https://i.imgur.com/m2afSdA.png" width="400" alt="Ángel guardián: defensa nocturna"></a>
 <br>
 <p>
 <a href="https://nigolukas.itch.io/angel-guardian-defensa-nocturna" target="_blank">
@@ -42,12 +42,14 @@
 </p>Embody your guardian angel to defend you during the night from the shadows that haunt your room. Once morning comes, they will be pulverized! 
 
 Fight with your wings or use the heavenly hand to push the ghosts away from the bed and keep the child asleep. Inside the room you can collect objects that will help you during the night. Earn the coveted S Rank! 
-
+<br>
+<br>
+<br>
 </p>
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
+
 
 ## gamejams
 <table>
@@ -55,7 +57,7 @@ Fight with your wings or use the heavenly hand to push the ghosts away from the 
 <td width="50%">
 <h3 align="center">Halloween Strikes Back</h3>
 <div align="center">
-<a href="https://nigolukas.itch.io/halloween-strikes-back" target="_blank"><img src="https://i.imgur.com/znaysLg.png" width="400" alt="Halloween Strikes Back"></a>
+<a href="https://nigolukas.itch.io/halloween-strikes-back" target="_blank"><img src="https://i.imgur.com/B3xMWMq.png" width="400" alt="Halloween Strikes Back"></a>
 <p>
 <a href="https://nigolukas.itch.io/myth-hunter" target="_blank">
 <img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black">
