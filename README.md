@@ -32,7 +32,7 @@
                <br>
 <h3 align="center">Ángel guardián: defensa nocturna</h3>
 <div align="center">                                       
-<a href="https://nigolukas.itch.io/angel-guardian-defensa-nocturna" target="_blank"><img src="https://i.imgur.com/znaysLg.png" width="400" alt="Ángel guardián: defensa nocturna"></a>
+<a href="https://nigolukas.itch.io/angel-guardian-defensa-nocturna" target="_blank"><img src="https://imgur.com/a/lP90s1k" width="400" alt="Ángel guardián: defensa nocturna"></a>
 <br>
 <p>
 <a href="https://nigolukas.itch.io/angel-guardian-defensa-nocturna" target="_blank">
