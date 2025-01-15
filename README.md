@@ -59,7 +59,7 @@ Fight with your wings or use the heavenly hand to push the ghosts away from the 
 <div align="center">
 <a href="https://nigolukas.itch.io/halloween-strikes-back" target="_blank"><img src="https://i.imgur.com/B3xMWMq.png" width="400" alt="Halloween Strikes Back"></a>
 <p>
-<a href="https://nigolukas.itch.io/myth-hunter" target="_blank">
+<a href="https://nigolukas.itch.io/halloween-strikes-back" target="_blank">
 <img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black">
 </a>
 </p>
@@ -69,6 +69,44 @@ For this reason, Espyro decided to challenge this order. With determination and 
 </div>                                                            
 </table>        
 
+
+## some interesting software projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Web service</h3>
+<div align="center">
+<a href="https://github.com/Nigolukas/Servicio_web" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="MythHunter"></a>
+<p>
+<a href="https://github.com/Nigolukas/Servicio_webr" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-8A9597?style=for-the-badge&logo=GitHub&logoColor=black">
+</a>
+</p>
+<p>Using Html, CSS, Javascript and PHP, a web service was created aimed at registering students by their respective professors to enter as research assistants.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+
+
+<td width="50%">
+<h3 align="center">UNO with IA</h3>
+<div align="center">
+<a href="https://github.com/Nigolukas/UNO_IA" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="MythHunter"></a>
+<p>
+<a href="https://github.com/Nigolukas/UNO_IA" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-8A9597?style=for-the-badge&logo=GitHub&logoColor=black">
+</a>
+</p>
+<p>In this code, the UNO game is recreated with a graphical interface where the player plays against 3 artificial intelligences that try to make the best possible moves.
+
+To play, the numbers are used to select the position of the card to throw, with R you steal although it is also possible to do it with the mouse, with which you must also press the UNO button when the player already has a card.</p>
+</div>
+  
+</table>  
 
 <!--
 **Nigolukas/Nigolukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
