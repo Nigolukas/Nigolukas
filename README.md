@@ -70,7 +70,7 @@ Fight with your wings or use the heavenly hand to push the ghosts away from the 
 <img src="https://img.shields.io/badge/GitHub-F28705?style=for-the-badge&logo=GitHub&logoColor=black">
 </a>
 </p>
-<p>Desktop application developed by a group of 7 multimedia engineering students. It consists of an ultrasound simulator for neonates aimed at medical students.</p>
+<p>Desktop application developed by a group of 7 multimedia engineering students. It consists of an ultrasound simulator for neonates aimed at medical students made in Unity.</p>
 
 </div>
 
@@ -108,7 +108,7 @@ when interacting with the user in augmented reality.</p>
 <img src="https://img.shields.io/badge/GitHub-F28705?style=for-the-badge&logo=GitHub&logoColor=black">
 </a>
 </p>
-<p>With an algorythm that analize 3 parameters in an image, and based on an previous training, the program is able to detect if the skin in the image is healthy or have any type of acne in it</p>
+<p>With an algorythm made on MATLAB that analize 3 parameters in an image, and based on an previous training, the program is able to detect if the skin in the image is healthy or have any type of acne in it</p>
 
 </div>
   
@@ -145,7 +145,7 @@ With a dababase in mySQL the system saves the user data and with php use it for 
 <img src="https://img.shields.io/badge/GitHub-F28705?style=for-the-badge&logo=GitHub&logoColor=black">
 </a>
 </p>
-<p>In this code, the UNO game is recreated with a graphical interface where the player plays against 3 artificial intelligences that try to make the best possible moves.
+<p>In this code in python, the UNO game is recreated with a graphical interface where the player plays against 3 artificial intelligences that try to make the best possible moves.
 
 To play, the numbers are used to select the position of the card to throw, with R you steal although it is also possible to do it with the mouse, with which you must also press the UNO button when the player already has a card.</p>
 </div>
