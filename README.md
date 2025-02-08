@@ -170,6 +170,17 @@ To play, the numbers are used to select the position of the card to throw, with 
 For this reason, Espyro decided to challenge this order. With determination and courage, he embarked on a mission to reclaim the time that rightfully belonged to his holiday and restore balance between the festivities.</p>
 </div>                                                            
 </table>  
+<br>
+
+
+
+## Thanks for stopping by! 🤖
+
+Hey! Thanks for taking the time to check out my work. Every project I’ve worked on has been a chance to learn, experiment, and grow as a multimedia engineer. I’m always excited to explore new ideas, tackle creative challenges, and push my skills further. Whether it’s design, development, or something in between, I love finding innovative solutions and bringing ideas to life. If you enjoyed what you saw and think we could collaborate on something cool, feel free to reach out. I’d love to connect, exchange ideas, or just have a chat. Let’s make something awesome together!
+
+You can find me here 👨‍🎓: <a href="https://www.linkedin.com/in/nicolas-ruiz-villamizar-113b3a2b1/">LinkedIn</a>
+
+And play my games here 🎮: <a href="https://www.linkedin.com/in/nicolas-ruiz-villamizar-113b3a2b1/">Itch.io</a>
 
 <!--
 **Nigolukas/Nigolukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
