@@ -57,7 +57,7 @@ Fight with your wings or use the heavenly hand to push the ghosts away from the 
 <td width="50%">
 <h3 align="center">Halloween Strikes Back</h3>
 <div align="center">
-<a href="https://nigolukas.itch.io/halloween-strikes-back" target="_blank"><img src="https://i.imgur.com/B3xMWMq.png" width="400" alt="Halloween Strikes Back"></a>
+<a href="https://www.youtube.com/watch?v=-ycuXd41rX4" target="_blank"><img src="https://i.imgur.com/B3xMWMq.png" width="400" alt="Halloween Strikes Back"></a>
 <p>
 <a href="https://nigolukas.itch.io/halloween-strikes-back" target="_blank">
 <img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black">
