@@ -12,16 +12,18 @@
 <br>
 
 
-## videogame projects
+## Videogame projects
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">MythHunter</h3>
+  <br>
 <div align="center">
 <a href="https://unimilitareduco-my.sharepoint.com/personal/est_nicolas_ruiz_unimilitar_edu_co/_layouts/15/stream.aspx?id=%2Fpersonal%2Fest%5Fnicolas%5Fruiz%5Funimilitar%5Fedu%5Fco%2FDocuments%2Fdiplomado%2FCazamitos%2FGameplay%20MythHunter%2018%2D09%2D24%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6f0a2891%2D8c11%2D489a%2D9c13%2D96c3bfc0907a" target="_blank"><img src="https://i.imgur.com/filS6iB.jpeg" width="400" alt="MythHunter"></a>
 <p>
 <a href="https://nigolukas.itch.io/myth-hunter" target="_blank">
-<img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black">
+  <br>
+<img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black"> 
 </a>
 </p>
 <p>Set in rural Colombia during the 19XXs, the game immerses us in the adventures of Baudilio, an intrepid bounty hunter seeking fame and fortune. Hired across the country to confront the mythical creatures terrorizing the region, Baudilio embarks on a journey filled with dangers and mysteries. However, as he progresses in his mission, he will uncover a far more sinister truth: the real enemy poses a threat not only to the mythical beings but also to Mother Nature herself.</p>
@@ -31,11 +33,13 @@
 <td width="50%">
                <br>
 <h3 align="center">Ángel guardián: defensa nocturna</h3>
+  <br>
 <div align="center">                                       
 <a href="https://nigolukas.itch.io/angel-guardian-defensa-nocturna" target="_blank"><img src="https://i.imgur.com/m2afSdA.png" width="400" alt="Ángel guardián: defensa nocturna"></a>
 <br>
 <p>
 <a href="https://nigolukas.itch.io/angel-guardian-defensa-nocturna" target="_blank">
+  <br>
 <img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black">
 </a>
 </p>
@@ -49,56 +53,77 @@ Fight with your wings or use the heavenly hand to push the ghosts away from the 
 </div>                                                             
 </table>                                                                                 
 </div>
+    
 
+## Some interesting software projects
 
-## gamejams
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Halloween Strikes Back</h3>
+<h3 align="center">Echobaby</h3>
+  <br>
 <div align="center">
-<a href="https://www.youtube.com/watch?v=-ycuXd41rX4" target="_blank"><img src="https://i.imgur.com/B3xMWMq.png" width="400" alt="Halloween Strikes Back"></a>
+<a href="https://github.com/SantiMayo09/EchoBaby" target="_blank"><img src="https://i.imgur.com/LqyqTcv.png" width="400" alt="Echobaby"></a>
 <p>
-<a href="https://nigolukas.itch.io/halloween-strikes-back" target="_blank">
-<img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black">
+<a href="https://github.com/SantiMayo09/EchoBaby" target="_blank">
+  <br>
+<img src="https://img.shields.io/badge/GitHub-F28705?style=for-the-badge&logo=GitHub&logoColor=black">
 </a>
 </p>
-<p>In a world of endless holydays, Christmas was celebrated by everyone around the world in the last months of the year. However, its ambition to expand its influence led it to overshadow the other holidays, starting with Halloween. After a surprise attack, Christmas had completely eclipsed Halloween, preventing the holiday from being celebrated as it deserved.
+<p>Desktop application developed by a group of 7 multimedia engineering students. It consists of an ultrasound simulator for neonates aimed at medical students.</p>
 
-For this reason, Espyro decided to challenge this order. With determination and courage, he embarked on a mission to reclaim the time that rightfully belonged to his holiday and restore balance between the festivities.</p>
-</div>                                                            
-</table>        
+</div>
 
 
-## some interesting software projects
+<td width="50%">
+<h3 align="center">Riddikulus</h3>
+  <br>
+<div align="center">
+<a href="https://github.com/Nigolukas/Riddikulus" target="_blank"><img src="https://i.imgur.com/REuWa6r.png" width="400" alt="Riddikulus"></a>
+<p>
+<a href="https://github.com/Nigolukas/Riddikulus" target="_blank">
+  <br>
+<img src="https://img.shields.io/badge/GitHub-F28705?style=for-the-badge&logo=GitHub&logoColor=black">
+</a>
+</p>
+<p>Application with Unity
+and Vuforia that simulates boggarts with 3D models
+from Harry Potter that changed shape and animation
+when interacting with the user in augmented reality.</p>
+</div>
+  
+</table>  
+
 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Web service</h3>
+  <br>
 <div align="center">
-<a href="https://github.com/Nigolukas/Servicio_web" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="web service"></a>
+<a href="https://github.com/Nigolukas/Servicio_web" target="_blank"><img src="https://i.imgur.com/r38Vvxm.png" width="400" alt="web service"></a>
 <p>
 <a href="https://github.com/Nigolukas/Servicio_webr" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-8A9597?style=for-the-badge&logo=GitHub&logoColor=black">
+  <br>
+<img src="https://img.shields.io/badge/GitHub-F28705?style=for-the-badge&logo=GitHub&logoColor=black">
 </a>
 </p>
-<p>Using Html, CSS, Javascript and PHP, a web service was created aimed at registering students by their respective professors to enter as research assistants.</p>
-<br>
-<br>
-<br>
-<br>
+<p>Using Html, CSS, Javascript and PHP, a web service was created aimed at registering students by their respective professors to enter as research assistants.
+
+With a dababase in mySQL the system saves the user data and with php use it for connect the professor data with the student and allows to modity their information on real time</p>
 <br>
 </div>
 
 
 <td width="50%">
 <h3 align="center">UNO with AI</h3>
+  <br>
 <div align="center">
-<a href="https://github.com/Nigolukas/UNO_IA" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="UNO AI"></a>
+<a href="https://github.com/Nigolukas/UNO_IA" target="_blank"><img src="https://i.imgur.com/ZQPoW5s.png" width="400" alt="UNO AI"></a>
 <p>
 <a href="https://github.com/Nigolukas/UNO_IA" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-8A9597?style=for-the-badge&logo=GitHub&logoColor=black">
+  <br>
+<img src="https://img.shields.io/badge/GitHub-F28705?style=for-the-badge&logo=GitHub&logoColor=black">
 </a>
 </p>
 <p>In this code, the UNO game is recreated with a graphical interface where the player plays against 3 artificial intelligences that try to make the best possible moves.
@@ -107,40 +132,24 @@ To play, the numbers are used to select the position of the card to throw, with 
 </div>
 </table>  
 
-
-
-
+## Gamejams
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Echobaby</h3>
+<h3 align="center">Halloween Strikes Back</h3>
+  <br>
 <div align="center">
-<a href="https://github.com/SantiMayo09/EchoBaby" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="Echobaby"></a>
+<a href="https://www.youtube.com/watch?v=-ycuXd41rX4" target="_blank"><img src="https://i.imgur.com/B3xMWMq.png" width="400" alt="Halloween Strikes Back"></a>
 <p>
-<a href="https://github.com/SantiMayo09/EchoBaby" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-8A9597?style=for-the-badge&logo=GitHub&logoColor=black">
+<a href="https://nigolukas.itch.io/halloween-strikes-back" target="_blank">
+  <br>
+<img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black">
 </a>
 </p>
-<p>Desktop application developed by a group of 8 multimedia engineering students. It consists of an ultrasound simulator for neonates aimed at medical students.</p>
+<p>In a world of endless holydays, Christmas was celebrated by everyone around the world in the last months of the year. However, its ambition to expand its influence led it to overshadow the other holidays, starting with Halloween. After a surprise attack, Christmas had completely eclipsed Halloween, preventing the holiday from being celebrated as it deserved.
 
-</div>
-
-
-<td width="50%">
-<h3 align="center">Riddikulus</h3>
-<div align="center">
-<a href="https://github.com/Nigolukas/Riddikulus" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="Riddikulus"></a>
-<p>
-<a href="https://github.com/Nigolukas/Riddikulus" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-8A9597?style=for-the-badge&logo=GitHub&logoColor=black">
-</a>
-</p>
-<p>application with Unity
-and Vuforia that simulates boggarts with 3D models
-from Harry Potter that changed shape and animation
-when interacting with the user in augmented reality.</p>
-</div>
-  
+For this reason, Espyro decided to challenge this order. With determination and courage, he embarked on a mission to reclaim the time that rightfully belonged to his holiday and restore balance between the festivities.</p>
+</div>                                                            
 </table>  
 
 <!--
