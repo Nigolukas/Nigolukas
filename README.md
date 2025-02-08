@@ -77,7 +77,7 @@ For this reason, Espyro decided to challenge this order. With determination and 
 <td width="50%">
 <h3 align="center">Web service</h3>
 <div align="center">
-<a href="https://github.com/Nigolukas/Servicio_web" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="MythHunter"></a>
+<a href="https://github.com/Nigolukas/Servicio_web" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="web service"></a>
 <p>
 <a href="https://github.com/Nigolukas/Servicio_webr" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-8A9597?style=for-the-badge&logo=GitHub&logoColor=black">
@@ -93,9 +93,9 @@ For this reason, Espyro decided to challenge this order. With determination and 
 
 
 <td width="50%">
-<h3 align="center">UNO with IA</h3>
+<h3 align="center">UNO with AI</h3>
 <div align="center">
-<a href="https://github.com/Nigolukas/UNO_IA" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="MythHunter"></a>
+<a href="https://github.com/Nigolukas/UNO_IA" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="UNO AI"></a>
 <p>
 <a href="https://github.com/Nigolukas/UNO_IA" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-8A9597?style=for-the-badge&logo=GitHub&logoColor=black">
@@ -104,6 +104,41 @@ For this reason, Espyro decided to challenge this order. With determination and 
 <p>In this code, the UNO game is recreated with a graphical interface where the player plays against 3 artificial intelligences that try to make the best possible moves.
 
 To play, the numbers are used to select the position of the card to throw, with R you steal although it is also possible to do it with the mouse, with which you must also press the UNO button when the player already has a card.</p>
+</div>
+</table>  
+
+
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Echobaby</h3>
+<div align="center">
+<a href="https://github.com/SantiMayo09/EchoBaby" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="Echobaby"></a>
+<p>
+<a href="https://github.com/SantiMayo09/EchoBaby" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-8A9597?style=for-the-badge&logo=GitHub&logoColor=black">
+</a>
+</p>
+<p>Desktop application developed by a group of 8 multimedia engineering students. It consists of an ultrasound simulator for neonates aimed at medical students.</p>
+
+</div>
+
+
+<td width="50%">
+<h3 align="center">Riddikulus</h3>
+<div align="center">
+<a href="https://github.com/Nigolukas/Riddikulus" target="_blank"><img src="https://i.imgur.com/LYTQeAg.jpeg" width="400" alt="Riddikulus"></a>
+<p>
+<a href="https://github.com/Nigolukas/Riddikulus" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-8A9597?style=for-the-badge&logo=GitHub&logoColor=black">
+</a>
+</p>
+<p>application with Unity
+and Vuforia that simulates boggarts with 3D models
+from Harry Potter that changed shape and animation
+when interacting with the user in augmented reality.</p>
 </div>
   
 </table>  
