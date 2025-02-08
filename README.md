@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, i'm <a href="https://nigolukas.itch.io">Nigolukas</a> </h1>
 </div>
-<img src="https://i.imgur.com/3Aeetgg.png">
+<a href="https://www.linkedin.com/in/nicolas-ruiz-villamizar-113b3a2b1/" target="_blank"><img src="https://i.imgur.com/3Aeetgg.png"></a>
 
 ## About me
 
@@ -94,6 +94,25 @@ when interacting with the user in augmented reality.</p>
   
 </table>  
 
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">healthy skin and acne skin detector</h3>
+  <br>
+<div align="center">
+<a href="https://github.com/Nigolukas/Analisis-piel-normal-y-anormal" target="_blank"><img src="https://i.imgur.com/9feXPRt.png" width="400" alt="SkinDetectors"></a>
+<p>
+<a href="https://github.com/Nigolukas/Analisis-piel-normal-y-anormal" target="_blank">
+  <br>
+<img src="https://img.shields.io/badge/GitHub-F28705?style=for-the-badge&logo=GitHub&logoColor=black">
+</a>
+</p>
+<p>With an algorythm that analize 3 parameters in an image, and based on an previous training, the program is able to detect if the skin in the image is healthy or have any type of acne in it</p>
+
+</div>
+  
+</table>  
 
 <table>
 <tr>
