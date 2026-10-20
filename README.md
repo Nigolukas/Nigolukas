@@ -1,13 +1,16 @@
 <div align="center">
-<h1 align="center">Hi, i'm <a >Nigolukas</a> </h1>
+<h1 align="center">Hi, i'm </h1>
 </div>
-<a align="center" href="https://nigolukas.itch.io" target="_blank"><img src="https://i.imgur.com/3Aeetgg.png" width="500"></a>
+<div align="center">
+  <a href="https://nigolukas.itch.io" target="_blank">
+    <img src="https://i.imgur.com/3Aeetgg.png" width="500" alt="My itch.io portfolio">
+  </a>
+</div>
 
 ## About me
 
-- 🤖 software developer 
-- 🎮 videogames programmer
-- 👨‍🎓 multimedia engineer
+Game Developer specializing in Unity and C#, passionate about building interactive experiences and solving technical challenges through game development.
+I'm a Multimedia Engineer with experience developing video games and interactive applications using Unity, Unreal Engine, C#, C++, and other technologies.
 
 <br>
 
@@ -33,25 +36,25 @@
     creatures terrorizing the region, he embarks on a journey
     across the country filled with dangers and mysteries.
   </p>
+
+  <br>
   
 <details>
-  <summary> <h4> 📖 More about the project</h4> </summary>
-
-  <h4>About the game</h4>
+  <summary> 📖 <b>More about the project</b></summary>
   
   <h4>🛠️ Technologies</h4>
 
   <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-6C5CE7?style=flat-square&logo=csharp&logoColor=white">
   
-  <h4>My Contribution</h4>
+  <h4>👨‍💻 My Contribution</h4>
   <p>
     Developed the character's core mechanics, including parrying,
     attacks, and dashing. Implemented the enemy mechanics and
     roguelike procedural generation system.
   </p>
 
-  <h4>Technical Challenges</h4>
+  <h4>🧩 Technical Challenges</h4>
   <p>
     Designed a procedural generation system to create functional
     rooms with distinct visual identities using mathematical
