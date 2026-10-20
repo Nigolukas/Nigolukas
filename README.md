@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hi, i'm <a href="https://nigolukas.itch.io">Nigolukas</a> </h1>
+<h1 align="center">Hi, i'm <a >Nigolukas</a> </h1>
 </div>
-<a href="https://www.linkedin.com/in/nicolas-ruiz-villamizar-113b3a2b1/" target="_blank"><img src="https://i.imgur.com/3Aeetgg.png"></a>
+<a align="center" href="https://nigolukas.itch.io" target="_blank"><img src="https://i.imgur.com/3Aeetgg.png" width="500"></a>
 
 ## About me
 
@@ -26,8 +26,38 @@
 <img src="https://img.shields.io/badge/itch.io-ff6961?style=for-the-badge&logo=itch.io&logoColor=black"> 
 </a>
 </p>
-<p>Set in rural Colombia during the 19XXs, the game immerses us in the adventures of Baudilio, an intrepid bounty hunter seeking fame and fortune. Hired across the country to confront the mythical creatures terrorizing the region, Baudilio embarks on a journey filled with dangers and mysteries. However, as he progresses in his mission, he will uncover a far more sinister truth: the real enemy poses a threat not only to the mythical beings but also to Mother Nature herself.</p>
-</div>
+  <p>
+    Set in a fantastical version of 19th-century rural Colombia,
+    <i>MythHunter</i> follows Baudilio, an ambitious bounty hunter
+    seeking fame and fortune. Hired to track down the mythical
+    creatures terrorizing the region, he embarks on a journey
+    across the country filled with dangers and mysteries.
+  </p>
+  
+<details>
+  <summary> <h4> 📖 More about the project</h4> </summary>
+
+  <h4>About the game</h4>
+  
+  <h4>🛠️ Technologies</h4>
+
+  <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-6C5CE7?style=flat-square&logo=csharp&logoColor=white">
+  
+  <h4>My Contribution</h4>
+  <p>
+    Developed the character's core mechanics, including parrying,
+    attacks, and dashing. Implemented the enemy mechanics and
+    roguelike procedural generation system.
+  </p>
+
+  <h4>Technical Challenges</h4>
+  <p>
+    Designed a procedural generation system to create functional
+    rooms with distinct visual identities using mathematical
+    rules and color variations.
+  </p>
+</details>
 
 
 <td width="50%">
